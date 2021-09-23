@@ -111,9 +111,6 @@ export PATH=$PATH:~/.local/bin
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-# powerlevel10k config
-POWERLEVEL9K_MODE = "nerdfont-complete"
-
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
